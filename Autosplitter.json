@@ -1,0 +1,549 @@
+{
+  "splits": [
+    {
+      "name": "Boss Defeated",
+      "activators": [
+        {
+          "type": "event",
+          "map": 92,
+          "from": null,
+          "to": null,
+          "event": 39,
+          "page": 4,
+          "line": 521,
+          "id": null,
+          "value": null,
+          "any": null,
+          "common": false
+        }
+      ],
+      "start": false
+    },
+    {
+      "name": "Stab 1",
+      "activators": [
+        {
+          "type": "event",
+          "map": 1,
+          "from": null,
+          "to": null,
+          "event": 179,
+          "page": 1,
+          "line": 0,
+          "id": null,
+          "value": null,
+          "any": null,
+          "common": true
+        }
+      ],
+      "start": false
+    },
+    {
+      "name": "Fear of Heights",
+      "activators": [
+        {
+          "type": "event",
+          "map": 78,
+          "from": null,
+          "to": null,
+          "event": 27,
+          "page": 6,
+          "line": 37,
+          "id": null,
+          "value": null,
+          "any": null,
+          "common": false
+        }
+      ],
+      "start": false
+    },
+    {
+      "name": "Otherworld Campsite Entrance",
+      "activators": [
+        {
+          "type": "event",
+          "map": 118,
+          "from": null,
+          "to": null,
+          "event": 2,
+          "page": 2,
+          "line": 0,
+          "id": null,
+          "value": null,
+          "any": null,
+          "common": false
+        }
+      ],
+      "start": false
+    },
+    {
+      "name": "Conveyor Room Exit",
+      "activators": [
+        {
+          "type": "event",
+          "map": 144,
+          "from": null,
+          "to": null,
+          "event": 2,
+          "page": 2,
+          "line": 0,
+          "id": null,
+          "value": null,
+          "any": null,
+          "common": false
+        }
+      ],
+      "start": false
+    },
+    {
+      "name": "Download Window Defeated",
+      "activators": [
+        {
+          "type": "event",
+          "map": 151,
+          "from": null,
+          "to": null,
+          "event": 4,
+          "page": 3,
+          "line": 18,
+          "id": null,
+          "value": null,
+          "any": null,
+          "common": false
+        }
+      ],
+      "start": false
+    },
+    {
+      "name": "Soar to Deep Well (both times)",
+      "activators": [
+        {
+          "type": "event",
+          "map": 489,
+          "from": null,
+          "to": null,
+          "event": 2,
+          "page": 3,
+          "line": 327,
+          "id": null,
+          "value": null,
+          "any": null,
+          "common": false
+        }
+      ],
+      "start": false
+    },
+    {
+      "name": "Space Ex-Boyfriend Defeated",
+      "activators": [
+        {
+          "type": "event",
+          "map": 126,
+          "from": null,
+          "to": null,
+          "event": 1,
+          "page": 7,
+          "line": 234,
+          "id": null,
+          "value": null,
+          "any": null,
+          "common": false
+        }
+      ],
+      "start": false
+    },
+    {
+      "name": "Fear of Spiders",
+      "activators": [
+        {
+          "type": "event",
+          "map": 78,
+          "from": null,
+          "to": null,
+          "event": 27,
+          "page": 9,
+          "line": 38,
+          "id": null,
+          "value": null,
+          "any": null,
+          "common": false
+        }
+      ],
+      "start": false
+    },
+    {
+      "name": "Enter Humphrey",
+      "activators": [
+        {
+          "type": "event",
+          "map": 216,
+          "from": null,
+          "to": null,
+          "event": 1,
+          "page": 3,
+          "line": 50,
+          "id": null,
+          "value": null,
+          "any": null,
+          "common": false
+        }
+      ],
+      "start": false
+    },
+    {
+      "name": "Exit Molly's Room",
+      "activators": [
+        {
+          "type": "transition",
+          "map": null,
+          "from": 248,
+          "to": 219,
+          "event": null,
+          "page": null,
+          "line": null,
+          "id": null,
+          "value": null,
+          "any": null,
+          "common": null
+        }
+      ],
+      "start": false
+    },
+    {
+      "name": "Exit Medusa's Room",
+      "activators": [
+        {
+          "type": "transition",
+          "map": null,
+          "from": 234,
+          "to": 219,
+          "event": null,
+          "page": null,
+          "line": null,
+          "id": null,
+          "value": null,
+          "any": null,
+          "common": null
+        }
+      ],
+      "start": false
+    },
+    {
+      "name": "Exit Marina's Room",
+      "activators": [
+        {
+          "type": "transition",
+          "map": null,
+          "from": 227,
+          "to": 219,
+          "event": null,
+          "page": null,
+          "line": null,
+          "id": null,
+          "value": null,
+          "any": null,
+          "common": null
+        }
+      ],
+      "start": false
+    },
+    {
+      "name": "Slime Girls Defeated",
+      "activators": [
+        {
+          "type": "event",
+          "map": 249,
+          "from": null,
+          "to": null,
+          "event": 2,
+          "page": 2,
+          "line": 1323,
+          "id": null,
+          "value": null,
+          "any": null,
+          "common": false
+        }
+      ],
+      "start": false
+    },
+    {
+      "name": "Humphrey Defeated",
+      "activators": [
+        {
+          "type": "event",
+          "map": 218,
+          "from": null,
+          "to": null,
+          "event": 2,
+          "page": 2,
+          "line": 19,
+          "id": null,
+          "value": null,
+          "any": null,
+          "common": false
+        }
+      ],
+      "start": false
+    },
+    {
+      "name": "Enter Sprout Mole Village",
+      "activators": [
+        {
+          "type": "event",
+          "map": 164,
+          "from": null,
+          "to": null,
+          "event": 2,
+          "page": 2,
+          "line": 0,
+          "id": null,
+          "value": null,
+          "any": null,
+          "common": false
+        }
+      ],
+      "start": false
+    },
+    {
+      "name": "Enter Dungeon",
+      "activators": [
+        {
+          "type": "event",
+          "map": 171,
+          "from": null,
+          "to": null,
+          "event": 76,
+          "page": 4,
+          "line": 972,
+          "id": null,
+          "value": null,
+          "any": null,
+          "common": false
+        }
+      ],
+      "start": false
+    },
+    {
+      "name": "Exit Dungeon",
+      "activators": [
+        {
+          "type": "event",
+          "map": 170,
+          "from": null,
+          "to": null,
+          "event": 1,
+          "page": 2,
+          "line": 0,
+          "id": null,
+          "value": null,
+          "any": null,
+          "common": false
+        }
+      ],
+      "start": false
+    },
+    {
+      "name": "Maximus I Defeated",
+      "activators": [
+        {
+          "type": "event",
+          "map": 172,
+          "from": null,
+          "to": null,
+          "event": 8,
+          "page": 1,
+          "line": 47,
+          "id": null,
+          "value": null,
+          "any": null,
+          "common": false
+        }
+      ],
+      "start": false
+    },
+    {
+      "name": "Maximus II Defeated",
+      "activators": [
+        {
+          "type": "event",
+          "map": 172,
+          "from": null,
+          "to": null,
+          "event": 8,
+          "page": 3,
+          "line": 47,
+          "id": null,
+          "value": null,
+          "any": null,
+          "common": false
+        }
+      ],
+      "start": false
+    },
+    {
+      "name": "Maximus III Defeated",
+      "activators": [
+        {
+          "type": "event",
+          "map": 172,
+          "from": null,
+          "to": null,
+          "event": 8,
+          "page": 5,
+          "line": 47,
+          "id": null,
+          "value": null,
+          "any": null,
+          "common": false
+        }
+      ],
+      "start": false
+    },
+    {
+      "name": "Sweetheart Garden Exit",
+      "activators": [
+        {
+          "type": "transition",
+          "map": null,
+          "from": 169,
+          "to": 185,
+          "event": null,
+          "page": null,
+          "line": null,
+          "id": null,
+          "value": null,
+          "any": null,
+          "common": null
+        }
+      ],
+      "start": false
+    },
+    {
+      "name": "Sweetheart Defeated",
+      "activators": [
+        {
+          "type": "event",
+          "map": 171,
+          "from": null,
+          "to": null,
+          "event": 5,
+          "page": 2,
+          "line": 970,
+          "id": null,
+          "value": null,
+          "any": null,
+          "common": false
+        }
+      ],
+      "start": false
+    },
+    {
+      "name": "Fear of Drowning",
+      "activators": [
+        {
+          "type": "event",
+          "map": 78,
+          "from": null,
+          "to": null,
+          "event": 27,
+          "page": 10,
+          "line": 43,
+          "id": null,
+          "value": null,
+          "any": null,
+          "common": false
+        }
+      ],
+      "start": false
+    },
+    {
+      "name": "Enter Blackspace",
+      "activators": [
+        {
+          "type": "event",
+          "map": 470,
+          "from": null,
+          "to": null,
+          "event": 1,
+          "page": 4,
+          "line": 43,
+          "id": null,
+          "value": null,
+          "any": null,
+          "common": false
+        }
+      ],
+      "start": false
+    },
+    {
+      "name": "Enter Red Door",
+      "activators": [
+        {
+          "type": "event",
+          "map": 264,
+          "from": null,
+          "to": null,
+          "event": 40,
+          "page": 1,
+          "line": 33,
+          "id": null,
+          "value": null,
+          "any": null,
+          "common": false
+        }
+      ],
+      "start": false
+    },
+    {
+      "name": "Ending: Stab in Player House",
+      "activators": [
+        {
+          "type": "event",
+          "map": 1,
+          "from": null,
+          "to": null,
+          "event": 176,
+          "page": 1,
+          "line": 0,
+          "id": null,
+          "value": null,
+          "any": null,
+          "common": true
+        }
+      ],
+      "start": false
+    }
+  ],
+  "defaults": {
+    "Boss": false,
+    "Boss Defeated": true,
+    "Stab 1": true,
+    "Fear of Heights": true,
+    "Otherworld Campsite Entrance": true,
+    "Conveyor Room Exit": false,
+    "Download Window Defeated": true,
+    "Deep Well WW": true,
+    "Space Ex-Boyfriend Defeated": true,
+    "Fear of Spiders": false,
+    "Soar to Deep Well (both times)": true,
+    "Enter Humphrey": true,
+    "Exit Molly's Room": true,
+    "Exit Medusa's Room": true,
+    "Exit Marina's Room": true,
+    "Slime Girls Defeated": false,
+    "Humphrey Defeated": true,
+    "Enter Sprout Mole City": true,
+    "Enter Dungeon": true,
+    "Exit Dungeon": true,
+    "Maximus I Defeated": true,
+    "Maximus II Defeated": true,
+    "Maximus III Defeated": true,
+    "Sweetheart Garden Exit": true,
+    "Sweetheart Defeated": true,
+    "Fear of Drowning": true,
+    "Enter Blackspace": true,
+    "Enter Red Door": true,
+    "Ending: Stab in Player House": true,
+    "Enter Sprout Mole Village": true
+  }
+}
